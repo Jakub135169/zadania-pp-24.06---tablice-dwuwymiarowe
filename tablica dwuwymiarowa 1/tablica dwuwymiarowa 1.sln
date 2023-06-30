@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tablica dwuwymiarowa 1", "tablica dwuwymiarowa 1.csproj", "{17A79D98-6D8C-4CE8-B95B-A41E9047D66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A79D98-6D8C-4CE8-B95B-A41E9047D66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A79D98-6D8C-4CE8-B95B-A41E9047D66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A79D98-6D8C-4CE8-B95B-A41E9047D66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A79D98-6D8C-4CE8-B95B-A41E9047D66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A29F41-CF0D-45BB-8378-DB6A328BFF01}
+	EndGlobalSection
+EndGlobal

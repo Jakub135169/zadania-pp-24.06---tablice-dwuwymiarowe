@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\zadania pp 24.06 - tablice dwuwymiarowe\tablica dwuwymiarowa 3\obj\Debug\tablica dwuwymiarowa 3.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania pp 24.06 - tablice dwuwymiarowe\tablica dwuwymiarowa 3\obj\Debug\tablica dwuwymiarowa 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania pp 24.06 - tablice dwuwymiarowe\tablica dwuwymiarowa 3\obj\Debug\tablica dwuwymiarowa 3.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania pp 24.06 - tablice dwuwymiarowe\tablica dwuwymiarowa 3\bin\Debug\tablica dwuwymiarowa 3.exe.config
+C:\Users\jradz\OneDrive\Pulpit\zadania pp 24.06 - tablice dwuwymiarowe\tablica dwuwymiarowa 3\bin\Debug\tablica dwuwymiarowa 3.exe
+C:\Users\jradz\OneDrive\Pulpit\zadania pp 24.06 - tablice dwuwymiarowe\tablica dwuwymiarowa 3\bin\Debug\tablica dwuwymiarowa 3.pdb
+C:\Users\jradz\OneDrive\Pulpit\zadania pp 24.06 - tablice dwuwymiarowe\tablica dwuwymiarowa 3\obj\Debug\tablica dwuwymiarowa 3.exe
+C:\Users\jradz\OneDrive\Pulpit\zadania pp 24.06 - tablice dwuwymiarowe\tablica dwuwymiarowa 3\obj\Debug\tablica dwuwymiarowa 3.pdb
